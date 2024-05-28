@@ -34,11 +34,11 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/59fdc870-a9e0-46ec-b489-2bcd98f605d1">
+<img align="left" height="84" width="84" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/670c4e29-cef7-489e-b964-13289f7a3321">
 
 <img align="left" height="80" width="80" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/b81f804e-896d-4181-a925-6aed7ad49def">
 
-<img align="left"  height="80" width="80" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/13bdb04c-e689-4ab6-a543-924e5aecb813">
+<img align="left"  height="80" width="80" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/22972ccb-096f-442c-bfa6-68a95d95f938">
 
 </div>
 
@@ -55,9 +55,9 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/13bdb04c-e689-4ab6-a543-924e5aecb813">
+<img align="left"  height="80" width="80" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/22972ccb-096f-442c-bfa6-68a95d95f938">
 
-<img align="left"  height="80" width="80" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/88150574-10d1-4d4d-97f7-ff34ede4d7b4">
+<img align="left"  height="80" width="80" src="https://github.com/nathalyanascimento/nathalyanascimento/assets/89852648/c36f0356-e507-456b-912c-2123c85b2d15">
 
 </div>
 
